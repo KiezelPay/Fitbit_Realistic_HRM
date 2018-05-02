@@ -1,0 +1,21 @@
+{
+  "fitbit": {
+    "appUUID": "6657f929-05ca-4e54-a14a-ec34cb57cf58",
+    "appType": "clockface",
+    "appDisplayName": "Real_HR",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "",
+    "requestedPermissions": [
+      "access_heart_rate"
+    ],
+    "buildTargets": [
+      "higgs",
+      "meson"
+    ],
+    "i18n": {
+      "en": {
+        "name": "Real_HR"
+      }
+    }
+  }
+}
